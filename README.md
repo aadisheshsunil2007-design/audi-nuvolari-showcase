@@ -12,4 +12,4 @@ Enable GitHub Pages for the `main` branch and repository root (`/`).
 
 ## Project note
 
-This is an unofficial fan project and is not affiliated with or endorsed by Audi AG. The repository contains nine local image files; confirm their source and public redistribution rights before publishing them. No license is granted by this repository.
+This is an unofficial fan project and is not affiliated with or endorsed by Audi AG. The repository contains ten local image files; confirm their source and public redistribution rights before publishing them. No license is granted by this repository.
